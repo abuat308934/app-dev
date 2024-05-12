@@ -2,9 +2,13 @@
 My first repository
 
 #My Favorite Series
+
 -Title: Avengers: Infinity War
+
 -Release Year: 2018
+
 -Director: Anthony and Joe Russo
+
 -Genre: Superhero, Action, Adventure
 
 -Character and their Cast:
